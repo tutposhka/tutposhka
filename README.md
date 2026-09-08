@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Profile banner" width="900">
+  <img src="./profile-banner.png" alt="Profile banner" width="100%">
 </p>
 
 <h1 align="center">tposhka</h1>
