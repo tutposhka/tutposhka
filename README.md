@@ -20,7 +20,6 @@
 - Currently learning C# / .NET / WPF
 - Also working with Java, Python, HTML and CSS
 - Interested in desktop applications, backend development and PC hardware
-- Usually online as `tposhka`
 
 ---
 
@@ -40,33 +39,19 @@
 
 ## Projects
 
-- `PizzaSplit` — C# / .NET / WPF project with shared calculation logic
-- `java-homework` — Java exercises and coursework
-- `minecraft-python-block-remover` — Python utility for Minecraft-related tasks
+- [PizzaSplit](https://github.com/tutposhka/PizzaSplit) — C# / .NET / WPF project with shared calculation logic
+- [java-homework](https://github.com/tutposhka/java-homework) — Java exercises and coursework
+- [minecraft-python-block-remover](https://github.com/tutposhka/minecraft-python-block-remover) — Python utility for Minecraft-related tasks
 - More projects coming soon
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tutposhka&show_icons=true&theme=github_dark&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutposhka&layout=compact&theme=github_dark&hide_border=true">
-</p>
 
 ---
 
 ## Links
 
 <p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-tposhka-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Discord-tposhka-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
-  <a href="#">
+  <a href="https://open.spotify.com/user/6ggm68mxz534b0jaer5bw4zsr?si=55848c8767c54ffb">
     <img src="https://img.shields.io/badge/Spotify-tposhka-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
