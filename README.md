@@ -5,7 +5,7 @@
 <h1 align="center">tposhka</h1>
 
 <p align="center">
-  IT student at University of Tartu / Narva College
+  IT student at University of Tartu
 </p>
 
 <p align="center">
