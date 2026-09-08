@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Profile banner" width="100%">
+  <img src="banner.png" alt="Profile banner" width="900">
 </p>
 
 <h1 align="center">tposhka</h1>
@@ -20,7 +20,7 @@
 - Currently learning C# / .NET / WPF
 - Also working with Java, Python, HTML and CSS
 - Interested in desktop applications, backend development and PC hardware
-- I usually exist online as `tposhka`
+- Usually online as `tposhka`
 
 ---
 
@@ -43,7 +43,7 @@
 - `PizzaSplit` — C# / .NET / WPF project with shared calculation logic
 - `java-homework` — Java exercises and coursework
 - `minecraft-python-block-remover` — Python utility for Minecraft-related tasks
-- More projects coming as I continue studying and building stuff
+- More projects coming soon
 
 ---
 
