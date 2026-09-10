@@ -39,9 +39,9 @@
 
 ## Projects
 
-- [PizzaSplit](https://github.com/tutposhka/PizzaSplit) — C# / .NET / WPF project with shared calculation logic
-- [java-homework](https://github.com/tutposhka/java-homework) — Java exercises and coursework
-- [minecraft-python-block-remover](https://github.com/tutposhka/minecraft-python-block-remover) — Python utility for Minecraft-related tasks
+- [PizzaSplit](https://github.com/tutposhka/PizzaSplit) - C# / .NET / WPF project with shared calculation logic
+- [java-homework](https://github.com/tutposhka/java-homework) - Java exercises and coursework
+- [minecraft-python-block-remover](https://github.com/tutposhka/minecraft-python-block-remover) - Python utility for Minecraft-related tasks
 - More projects coming soon
 
 ---
