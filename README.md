@@ -16,10 +16,10 @@
 
 ## About me
 
-- IT student at University of Tartu, Narva College
+- IT student at University of Tartu
 - Currently learning C# / .NET / WPF
 - Also working with Java, Python, HTML and CSS
-- Interested in desktop applications, backend development and PC hardware
+- Interested in desktop applications, backend development, PC hardware, Reverse Engineering and Information Security
 
 ---
 
